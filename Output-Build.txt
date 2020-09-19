@@ -1,0 +1,13 @@
+﻿1>------ Build started: Project: Trivago, Configuration: Debug Any CPU ------
+1>C:\Program Files (x86)\MSBuild\12.0\bin\Microsoft.Common.CurrentVersion.targets(1635,5): warning MSB3270: There was a mismatch between the processor architecture of the project being built "MSIL" and the processor architecture of the reference "Oracle.DataAccess, Version=2.112.1.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=x86", "x86". This mismatch may cause runtime failures. Please consider changing the targeted processor architecture of your project through the Configuration Manager so as to align the processor architectures between your project and references, or take a dependency on references with a processor architecture that matches the targeted processor architecture of your project.
+1>C:\Users\hp\Desktop\Trivago\Trivago\UpdateReservation.cs(106,17,106,41): warning CS0665: Assignment in conditional expression is always constant; did you mean to use == instead of = ?
+1>C:\Users\hp\Desktop\Trivago\Trivago\Bill.cs(18,30,18,37): warning CS0169: The field 'Trivago.Bill.builder' is never used
+1>C:\Users\hp\Desktop\Trivago\Trivago\Bill.cs(19,17,19,19): warning CS0169: The field 'Trivago.Bill.ds' is never used
+1>C:\Users\hp\Desktop\Trivago\Trivago\Disconnected.cs(18,30,18,37): warning CS0169: The field 'Trivago.Disconnected.builder' is never used
+1>C:\Users\hp\Desktop\Trivago\Trivago\Disconnected.cs(19,17,19,19): warning CS0169: The field 'Trivago.Disconnected.ds' is never used
+1>C:\Users\hp\Desktop\Trivago\Trivago\DisplayHotels.cs(18,30,18,37): warning CS0169: The field 'Trivago.DisplayHotels.builder' is never used
+1>C:\Users\hp\Desktop\Trivago\Trivago\DisplayHotels.cs(19,17,19,19): warning CS0169: The field 'Trivago.DisplayHotels.ds' is never used
+1>C:\Users\hp\Desktop\Trivago\Trivago\Form1.cs(19,16,19,18): warning CS0169: The field 'Trivago.Interface.th' is never used
+1>C:\Users\hp\Desktop\Trivago\Trivago\UpdateReservation.cs(18,13,18,18): warning CS0169: The field 'Trivago.UpdateReservation.level' is never used
+1>  Trivago -> C:\Users\hp\Desktop\Trivago\Trivago\bin\Debug\Trivago.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
